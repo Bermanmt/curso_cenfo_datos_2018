@@ -8,6 +8,6 @@ Este repositorio contiene todos los materiales del curso de lenguajes orientados
 Todos los materiales se encuentran en las siguientes categorías:
 
   1. **[Lecciones:](Lecciones)** Aquí se encuentran todos los materiales que se ven en clases, tanto presentaciones como ejercicios prácticos.
-  2. **Tareas:** En esta carpeta es donde van a encontrar los enunciados de las tareas que se van a tener que hacer para obtener los créditos del curso.
-  3. **Proyectos:** Los enunciados de los cuatro proyectos a ejecutar durante el curso se van a encontrar en esta carpeta.
-  4. **Recursos adicionales:** Los recursos adicionales como libros o PDFs se van a encontrar en este directorio.
+  2. **[Tareas:](Tareas)** En esta carpeta es donde van a encontrar los enunciados de las tareas que se van a tener que hacer para obtener los créditos del curso.
+  3. **[Proyectos:](Proyectos)** Los enunciados de los cuatro proyectos a ejecutar durante el curso se van a encontrar en esta carpeta.
+  4. **[Recursos adicionales:](Recursos adicionales)** Los recursos adicionales como libros o PDFs se van a encontrar en este directorio.
